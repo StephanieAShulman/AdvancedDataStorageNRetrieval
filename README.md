@@ -27,5 +27,5 @@ In final preparation for the presentation, summary statistics for temperatures i
 ![temps_small](https://user-images.githubusercontent.com/30667001/155849457-e8493395-6417-4f4d-b1df-b60ecea11f1c.png)
 
 To guarantee Surf n' Shake Shop funding and success at the coming investor meeting, a wider analysis should be conducted that includes:
-* Precipitation and temperature should be combined to determine if one weather condition impacts another, depending on month.
+* Precipitation and temperature in combination to determine if one weather condition impacts another, depending on month.
 * Precipitation and temperature by season. While June and December may be a good proxy based on tourist months, the plan to operate year-round should include an analysis that considers whether there may be times when shop items are less likely to be in demand and what the plan is for those times.
